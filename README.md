@@ -1,2 +1,2 @@
 # gym-manager
-Gerenciamento de academia (launchbase)
+Gerenciamento de academia
