@@ -1,17 +1,9 @@
 {
   "instructors": [
     {
-      "id": 1,
+      "id": "2",
       "avatar_url": "https://google.com",
-      "name": "Charles",
-      "gender": "F",
-      "services": "Pilates, Musculação",
-      "created_at": 1594073548406
-    },
-    {
-      "id": 2,
-      "avatar_url": "https://google.com",
-      "name": "Beatriz",
+      "name": "Beatriz Sal",
       "birth": 891648000000,
       "gender": "F",
       "services": "Pilates",
